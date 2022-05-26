@@ -2,7 +2,7 @@
   "attributes" : [
     {
       "trait_type" : "level",
-      "value" : 3
+      "value" : 99
     },
     {
       "trait_type" : "stamina",
@@ -28,8 +28,8 @@
       "value" : 1
     }
   ],
-  "description" : "Friendly Marketplace Creature that enjoys long swims in the ocean.",
-  "external_url" : "https://example.com/?token_id=2",
-  "image" : "https://ton.org/img/img_1.svg",
-  "name" : "Boris McCoy"
+  "description" : "Nosok is one of the main heroes of TON builders club.",
+  "external_url" : "https://github.com/SwiftAdviser/ton-nft-collection-test",
+  "image" : "https://raw.githubusercontent.com/SwiftAdviser/ton-nft-collection-test/main/images/1.png",
+  "name" : "nosok"
 }

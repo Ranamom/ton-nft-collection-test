@@ -1,8 +1,8 @@
 {
-  "name": "Marketplace Creatures",
-  "description": "Marketplace Creatures are adorable aquatic beings primarily for demonstrating what can be done using the Marketplace platform. Adopt one today to try out all the Marketplace buying, selling, and bidding feature set.",
-  "image": "://ton.org/img/duck.svg",
-  "external_link": "https://matketplacecreatures.io",
+  "name": "Collection by SwiftAdviser",
+  "description": "Time to start. This is my first step to see the future",
+  "image": "https://raw.githubusercontent.com/SwiftAdviser/ton-nft-collection-test/main/images/collection.png",
+  "external_link": "https://tonbuilders.com",
   "seller_fee_basis_points": 100,
-  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+  "fee_recipient": "EQD-QBqnR-C1C5Gwzor8kK1hsJC38iyoBsyp19b4SUeB9qlq"
 }
